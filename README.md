@@ -1,4 +1,5 @@
 # yt-search-list
 
-gets input from 'input.txt'.<br>
-the input transforms into a youtube search.
+Gets input from 'input.txt'.<br>
+The input transforms into a youtube search.<br>
+Every search is opened in new tab on the default browser (edge).
