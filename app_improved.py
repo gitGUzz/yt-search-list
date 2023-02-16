@@ -16,7 +16,7 @@ import webbrowser
 import time
 
 edge_path = "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
-sys.stdin = open('primerno.txt', 'r', encoding='utf-8')
+sys.stdin = open('input.txt', 'r', encoding='utf-8')
 count = 0
 for line in sys.stdin:
         count += 1
